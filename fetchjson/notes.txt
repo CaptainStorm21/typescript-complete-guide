@@ -1,0 +1,2 @@
+prompt tsc index.tsc
+then node index.js
