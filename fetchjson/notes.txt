@@ -1,2 +1,4 @@
-prompt tsc index.tsc
+prompt tsc index.ts
 then node index.js
+
+npm run dev
